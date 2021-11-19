@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM golang:1.17.3-alpine3.14
 
 LABEL maintainer="dev <hello@starling.com>"
 
